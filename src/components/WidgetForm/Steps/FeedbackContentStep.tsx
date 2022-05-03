@@ -29,8 +29,11 @@ export function FeedbackContentStep({ feedbackType, onFeedbackRestartRequested}:
         <CloseButton />
       </header>
       
-      <form className="">
-
+      <form className="my-4 w-full">
+        <textarea
+          className=""
+          placeholder="Conte com detalhes o que está acontecendo..."
+        />
       </form>
     </>
   );
