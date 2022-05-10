@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - NodeJS
 - Axios
 - Phosphor-react (Icons)
+- Deploy: Vercel
 
 ## 💻 Projeto
 
